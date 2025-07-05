@@ -1,0 +1,16 @@
+{
+  "name": "windows-calculator-mcp",
+  "version": "1.0.0",
+  "description": "MCP server to connect Claude Desktop to Windows Calculator",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^0.4.0",
+    "child_process": "^1.0.2"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
