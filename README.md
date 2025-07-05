@@ -135,7 +135,19 @@ WinCalcMCP/
 
 ## License
 
-This project is open source. Feel free to use, modify, and distribute.
+This project is licensed under a **Personal-Use-Only Software License**. 
+
+### What this means:
+- ✅ **Personal use is FREE** - Use for learning, personal projects, experimentation
+- ✅ **Modify and customize** for your personal needs
+- ✅ **Share with family/friends** for non-commercial purposes
+- ❌ **Commercial use prohibited** - No business, professional, or revenue-generating use
+- ❌ **No commercial distribution** - Cannot be used in business environments
+
+### Commercial Licensing Available
+If you need to use this MCP server for commercial purposes, please contact 4miodio@gmail.com for commercial licensing options.
+
+See the [LICENSE](LICENSE) file for complete terms and conditions.
 
 ## Support
 
@@ -144,6 +156,12 @@ If you encounter issues:
 2. Verify your Windows version supports PowerShell
 3. Ensure Claude Desktop is the latest version
 4. Open an issue on GitHub with details about your setup
+
+**Note**: Support is provided for personal use only. Commercial users should contact us for commercial licensing and support options.
+
+## Commercial Licensing
+
+For commercial use, professional support, or enterprise deployment, please contact 4miodio@gmail.com to discuss commercial licensing options.
 
 ## Acknowledgments
 
