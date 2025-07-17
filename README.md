@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/rspeciale0519-wincalcmcp-badge.png)](https://mseep.ai/app/rspeciale0519-wincalcmcp)
+
 # Windows Calculator MCP Server
 
 An MCP (Model Context Protocol) server that connects Claude Desktop to Windows Calculator, enabling Claude to perform accurate mathematical calculations using Windows' native calculation engine.
